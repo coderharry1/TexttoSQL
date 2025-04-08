@@ -36,19 +36,6 @@ The query is executed on a local SQLite database.
 Results are rendered interactively in Streamlit.
 🚀 Getting Started
 
-🖥️ Installation
-# 1. Clone the repository
-git clone https://github.com/coderharry1/sql-gemini-app.git
-cd sql-gemini-app
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Set your Google API key
-echo "GOOGLE_API_KEY=your-api-key-here" > .env
-
-# 4. Launch the app
-streamlit run app.py
 🧪 Sample Prompt Engineering
 
 The Gemini model is primed with an advanced system prompt:
