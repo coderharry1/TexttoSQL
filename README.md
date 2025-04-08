@@ -75,11 +75,4 @@ This project is licensed under the MIT License.
 📬 Contact & Attribution
 
 👨‍💻 Author: S. Harish Krishnan
-🌐 LinkedIn: linkedin.com/in/your-link
-✍️ Blog: medium.com/@yourname
-
-
-📬 Contact
-Author: S. Harish Krishnan
-LinkedIn: Your LinkedIn
-Blog: Medium Articles
+🌐 LinkedIn: https://www.linkedin.com/in/harishkds/
