@@ -27,17 +27,6 @@ User inputs a question in plain English (e.g., "How many students are in Data Sc
 Prompt-engineered input is passed to the Gemini model via google-generativeai
 The generated SQL query is executed against a local SQLite database
 Results are displayed instantly via Streamlit
-📦 Installation
-# Clone the repo
-git clone https://github.com/yourusername/sql-gemini-app.git
-cd sql-gemini-app
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Add your API key
-echo "GOOGLE_API_KEY=your_api_key_here" > .env
-
 # Run the app
 streamlit run app.py
 🧪 Sample Prompt Engineering
@@ -48,7 +37,9 @@ This structured prompt ensures the model provides precise, executable, and safe 
 
 📸 App UI
 Screenshot Placeholder
-A user types: “Show all students from Data Science class.” The app responds with a table of relevant entries in real time.
+A user types: “Provide me the average marks of all student.” The app responds with a relevant entries in real time.
+![image](https://github.com/user-attachments/assets/0b49e2d2-e2b4-4a26-8a37-dde7fb0421cf)
+
 🔐 API Key Security
 This app uses python-dotenv to securely manage your GOOGLE_API_KEY. Do not hardcode secrets. Always use .env.
 
