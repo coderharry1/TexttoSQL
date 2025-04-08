@@ -1,4 +1,4 @@
-🚀 Gemini-Powered Natural Language SQL Query App
+# 🚀 Gemini-Powered Natural Language SQL Query App
 
 Transform human language into precise SQL commands using Google Gemini Pro and an elegant Streamlit interface.
 This intelligent application eliminates the barrier between natural language and database querying—ideal for data analysts, business users, and developers alike.
